@@ -1,0 +1,137 @@
+[
+  {
+    "trigger": {
+      "url-filter": ".*://youtube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "offer-module > .ytd-watch.style-scope"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://youtube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "chat"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://timesofindia.indiatimes.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "popular-widget > div:nth-child(3)"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://timesofindia.indiatimes.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "popular-widget"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://timesofindia.indiatimes.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "content > div > div > div.wrapper.clearfix.article-content-wrapper > div.main-content > div:nth-child(8)"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://timesofindia.indiatimes.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "content > div > div > div.wrapper.clearfix.article-content-wrapper > div.main-content > div:nth-child(9)"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://timesofindia.indiatimes.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "content > div > div > div.wrapper.clearfix.article-content-wrapper > div.main-content > div:nth-child(10)"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://timesofindia.indiatimes.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "content > div > div > div.wrapper.clearfix.article-content-wrapper > div.main-content > div:nth-child(11)"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://feedly.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "topHeaderBarFX"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mylivecricket.live/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adcode"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://www.hirist.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "learngrow"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://www.indgovtjobs.in/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "g207"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jsfiddle.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "keep-us-running"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://stackblitz.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "sponsad-wrapper"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://chocolatey.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "cookieNoticeAlert"
+    }
+  }
+]

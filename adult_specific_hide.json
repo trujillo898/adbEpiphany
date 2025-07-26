@@ -1,0 +1,2495 @@
+[
+  {
+    "trigger": {
+      "url-filter": ".*://virtuagirlgirls.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "DynamicBackgroundWrapper"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porndr.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "PD-Under-player"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://deviants.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "_iframe_content"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://swfchan.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "aaaa"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://justthegays.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad-banner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xnxx.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad-footer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://njav.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad300250"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://eporner.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "addesktop"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javgg.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adlink"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://eporner.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "admobileoutstream"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ggjav.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ads-in-video"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tnaflix.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ads-under-video_"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://h-flash.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ads_2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://wetpussygames.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adult-games > div[style*=\"250px;\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://badassbitch.pics/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adv"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://flyingjizz.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adv_inplayer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xpaja.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "advertisement"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://milffox.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "advertising"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://instantfap.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "af"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pervclips.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "after-adv"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cockdude.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "after-boxes-ver2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://str8ongay.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "alfa_promo_parent"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sunporno.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "atop"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://literotica.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "b-top"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://thehentai.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "balaoAdDireito"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://massfans.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://massrips.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornchimp.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banner-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://massfans.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banner2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://massrips.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banner2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://massfans.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banner4"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://massrips.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banner4"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://filtercams.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bannerFC"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cuntest.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banners"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://fakings.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banners_footer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://nigged.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banners_footer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornstargold.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "basePopping"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://lewdspot.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "belowGameAdContainerPause"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mopoga.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "belowGameAdContainerPause"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cockdude.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "beside-video-ver2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sexyandfunny.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "best-friends"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pussyspace.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bhcr"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://bgwp.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "blk1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://18adultgames.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-105"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://18adultgames.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-121"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://euroxxx.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-15"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://18adultgames.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-20"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaiprn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-27"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jav-jp.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-29"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://18adultgames.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-73"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://18adultgames.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-75"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://deepfucks.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-88"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://deepfucks.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-92"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://toppixxx.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bottom"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xxxdan.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bottom-line"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xxxdan3.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bottom-line"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaiasmr.moe/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bottom-tab"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cockdude.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "box-txtovka-con"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://eporner.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "btasd"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mobxvideos.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bubble"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornogramxxx.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bubble"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gamesofdesire.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "chat"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornstar-scenes.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "chatCamAjaxV0"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://heavy-r.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "closeable_widget"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sexu.site/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "closeplay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://anysex.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "content > .main > .content_right"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://imagebam.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "cs-link"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaiprn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-19"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://celebritymovieblog.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://interracial-girls.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://watchjavonline.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-3"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://zhentube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-38"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dpfantasy.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-4"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hotcelebshome.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-4"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentai7.top/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-6"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javgg.co/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-7"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://12jav.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "custom_html-8"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pictoa.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "d-zone-1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://eporner.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "deskadmiddle"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cdnm4m.nl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "directAds"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentai-cosplays.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "display_image_detail > span"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentai-img.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "display_image_detail > span"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javguard.xyz/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "dl > a[target=\"_blank\"][id]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://thehun.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "dyk_right"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://escortbook.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ebsponAxDS"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jzzo.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "embed-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xxxvogue.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "embed-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://youjizz.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "englishPr"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porntrex.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "exclusive-link"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://girlshot.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "extra-bottom"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://china-tube.site/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "extraWrapOverAd"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://namethatporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "fab_blacko"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dailyporn.club/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "fixedban"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://stockingfetishvideo.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "flirtyBubble"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://212.32.226.234/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "floatcenter"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://anysex.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "fluid_theatre > .center"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pussy.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "footZones"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://youjizz.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "footer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sunporno.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "footer_a"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mopoga.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "fpGMcontainer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://girlsofdesire.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "gal_669"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pics-x.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "gallery-header-schmmad"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://perfectgirls.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hat_message"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://yourlust.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "headC"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://nangaspace.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "header"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://aan.xxx/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "header-banner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://youtubelike.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "header-top"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentai0day.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "headeram"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornpics.network/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hidden"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javhd.today/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ics"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porngameshub.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "im-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mopoga.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "inTextAdContainerPause"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://maturesladies.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "inVideoInner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://aniporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "in_v"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hotmovs.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "in_va"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://youngamateursporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "inplayer_block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaiprn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "l_340"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornlib.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "lcams2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://escortbook.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "links"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xfantasy.su/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "listing-ba"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://livecamrips.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "live-cam"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://redtube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "live_models_row_wrap"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://maturetubehere.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "lotal"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://4tube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "main-jessy-grid"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://anysex.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "main_video_fluid_html_on_pause"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jizzberry.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "main_video_fluid_html_on_pause"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://peekvids.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "mediaPlayerBanner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornvalleymedia.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "media_image-81"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornvalleymedia.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "media_image-82"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornvalleymedia.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "media_image-83"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornvalleymedia.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "media_image-84"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornvalleymedia.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "media_image-86"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornvalleymedia.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "media_image-87"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornvalleymedia.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "media_image-88"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornvalleymedia.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "media_image-90"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://18adultgames.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "menu-mm [rel=\"nofollow external\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://vpornvideos.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "mn-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gifsfor.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "mob_banner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://fetishshrine.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "mobile-under-player"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://whentai.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "modalegames"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://eporner.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "movieplayer-box-adv"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cockdude.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "native-boxes-2-ver2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://amateur8.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "nopp"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://maturetubehere.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "nopp"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://flashx.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "nuevoa"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xrares.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "nuevoa"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://scrolller.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "object_container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://youjizz.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "onPausePrOverlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://alldeepfake.ink/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaimama.io/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://underhentai.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://watchhentai.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porn300.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay-video"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porndroids.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay-video"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://22pixx.xyz/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlayBg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://imagevenue.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlayBg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaiff.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overplay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://video.laxd.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "owDmcIsUc"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jzzo.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "parrot"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xxxvogue.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "parrot"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://nudevista.at/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "paysite"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://nudevista.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "paysite"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://redtube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pb_block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://redtube.com.br/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pb_block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://redtube.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pb_block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornhub.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pb_template"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornhub.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pb_template"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://youporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pb_template"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ggjav.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pc_instant"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ggjav.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pc_instant"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornx.to/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "player-api-over"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentai2w.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "playerOverlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://iporntoo.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "playerOverlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tsmodelstube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "playerOverlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xhentai.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "playerOverlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ebony8.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "player_add"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://lesbian8.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "player_add"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://maturetubehere.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "player_add"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://redtube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "popsByTrafficJunky"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javtrailers.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "popunderLinkkkk"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornstargold.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "popup"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jav321.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "popup-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sextvx.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "porntube_hor_bottom_ads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://katestube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pre-block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sleazyneasy.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pre-spots"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mopoga.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "preGamescontainer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javtitan.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "preroll"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tojav.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "preroll"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://alotav.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javbraze.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javdoe.fun/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javdoe.sh/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javhat.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javhd.today/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javhdz.today/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javseen.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javtape.site/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xjav.online/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "previewBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xvideos.name/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "publicidad-video"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://celebjihad.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pud"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://deserttechairconditioning.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "r-ad-banner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://h-flash.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "randomzone1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cockdude.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "related-boxes-footer-ver2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornhub.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "relatedVideosCenter > li[class^=\"related\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://freebdsmxxx.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "right"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://lewdspot.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "rightSidebarAdContainerPause"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://youjizz.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "rightVideoPrs"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://badjojo.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "rightcol"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://onlyporn.tube/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "s-suggesters"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porntop.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "s-suggesters"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://homemade.xxx/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "scrollhere"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sexyandfunny.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "sexy-links"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://spankbang.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "shorts-frame"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javtiful.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "showerm"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://3movs.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "side_col_video_view"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornhub.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "singleFeedSection > .emptyBlockSpace"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornhub.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "singleFeedSection > .emptyBlockSpace"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://adult-sex-games.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "skyscraper"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porngames.games/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "slide-ads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://adultgamescollector.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "slideApple"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://adultgamesworld.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "slideApple"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porngames.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "slideApple"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaifox.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "slider"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pics-x.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "slider-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://javfor.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "smac12403o0"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xbooru.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "smb"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xxxymovies.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "smb"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hdtube.porn/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "sp-player"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hd-easyporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "special_column"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://megatube.xxx/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "sponsor-widget"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porn4fans.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "spot_player_start"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hd21.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "spot_video_livecams"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://winporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "spot_video_livecams"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hd21.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "spot_video_underplayer_livecams"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://winporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "spot_video_underplayer_livecams"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xnxxporn.video/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "spotholder"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://maxjizztube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "spotxt"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gotgayporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ss_bar"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cheemsporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://trannyvideosxxx.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://yaoimangaonline.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-28"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaimama.io/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-3"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaimama.io/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-5"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://fetish-games.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-6"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://theboobsblog.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-74"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cheemsporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-8"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentai-sharing.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-9"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://theboobsblog.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "text-94"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://f95zone.to/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "topNotice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sexmummy.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "topbar"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ohentai.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "topdetailad"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://motherless.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "topsites"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pussycatxx.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "tracking-url"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://zhentube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "tracking-url"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://creampietubeporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ubr"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://fullxxxtube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ubr"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hd-easyporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "udwysI3c7p"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://usasexguide.nl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "uiISGAdFooter"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://aniporn.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "und_ban"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pervclips.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "under-video"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://wetpussygames.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "under728"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://fakings.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "undervideo"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://kisscos.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "v-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://homemoviestube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "v_right"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xvideos.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "video-right"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xvideos.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "video-sponsor-links"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://drtuber.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "video_list_banner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dofap.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "video_overlay_banner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentaiplay.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "video_overlays"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://redtube.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "video_right_col > .clearfix"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gosexpod.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "xtw"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://classic.gamcore.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "center > .flashes > .wide:has(> a[href][rel])"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://69games.xxx/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "footer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gamcore.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "preloader_2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://69games.xxx/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "right"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://69games.xxx/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "tvnotice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gamcore.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "tvnotice"
+    }
+  }
+]

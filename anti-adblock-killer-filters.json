@@ -1,0 +1,2243 @@
+[
+  {
+    "trigger": {
+      "url-filter": ".*:///.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adbuddy-no-adb-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*:///.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adbuddy-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://file4go.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "banner_728x90B"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gamecopyworld.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "confirmOverlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gamecopyworld.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "confirmOverlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ecchi.animeron.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "confirmBox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ecchi.animeron.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "confirmOverlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mix.dj/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "maskads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cp-g.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblock_layer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://shoegames.blogspot.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "HTML5"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://unfair.co/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "awesomemessage"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://forum.gizmolord.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "announcement-container > #announcement-content > .no"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://de.adklick.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "w_ad.no_ad"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://canhasbitcoin.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblock-message"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://instantmanga.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "notice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://scan-manga.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pub_f0"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ilix.in/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "blockMsg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://urlink.at/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "blockMsg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://priva.us/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "blockMsg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://videotools.12pings.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "chucknorris"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://exashare.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "player_mgs"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dowed.info/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "player_mgs"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://exashare.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "player_mgo"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dowed.info/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "player_mgo"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hentai-flix.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "wppa-overlay-bg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ftlwiki.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "top-banner-advert"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://anime4fun.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hover"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://azcardinals.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblock-notice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://breakmanga.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "notice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://chine-informations.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "entete + div[id][class=\"nomobile\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ddl-search.biz/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "mc35"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jeuxactu.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "infoBlock"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://firstrowfr.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblockplus"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://firstrowfr.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "fanback"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://firstrowas.co/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_overlabut"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ifirstrow.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblockplus"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ifirstrow.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "fanback"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://planetatvonlinehd.blogspot.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "tupiklan"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://planetatvonlinehd.blogspot.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "anuncio"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://streamlive.to/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblockplus"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://porn-blog.me/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "dbx_light"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://lien-torrent.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_divr"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://lien-torrent.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_divl"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://readms.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "reader-sky"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://fz.se/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "AdBlockerInfo"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pencurimovie.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "simplemodal-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pencurimovie.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "simplemodal-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://smashboards.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "noticeMain"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://turbogenerator.info/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "blanuncio"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://turbogenerator.info/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "anuncio"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://rlsbb.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "contentArea > .information"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://flashback.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "top-banner-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ville-ideale.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "espace"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ville-ideale.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "enc"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ville-ideale.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "antyp"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://notre-planete.info/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "abp1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://umahdroid.blogspot.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "energysaving"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://alientube.co/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblockContainer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://proboards.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "support-message"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://freeforums.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "support-message"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://boards.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "support-message"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://strikeout.me/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlayad"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://strikeout.co/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlayad"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://forums.openpli.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "content > [style=\"text-align:center;\"] > DIV[style=\"margin 0 auto;display:inline-block;width:728px; height:84px; border:1px solid #000000; text-align:center; font-family:century gothic, arial, helvetica, sans serif;padding:4px;font-weight:bold;\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gamejolt.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pre-roll-ad-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://naekranie.pl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "niceMessage"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://fontsquirrel.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bottom_banner_ad_container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://zerozero.pt/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_block_msg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://trakt.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "huckster-desktop-top"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://trakt.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "huckster-desktop-bottom"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cinemaniahdd.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "i32c"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://proxywiky.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay-holder"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://facebookproxy.info/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay-holder"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://videoproxy.in/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay-holder"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hireteen.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adb-enabled"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://popeoftheplayers.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "mask1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://crichd.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "notice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cast4u.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "notice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cast4u.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "video_ads_overdiv"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hackintosh.computer/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "googleads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://popeoftheplayers.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "html4"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://playerapp1.pw/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "divPanel"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ponlatv.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "divPanel"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://teledeporteonline.pw/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "divPanel"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://playerhd1.pw/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "divPanel"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://playerhd2.pw/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "divPanel"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dinozap.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "divPanel"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dinozap.info/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "divPanel"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dinostream.pw/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "divPanel"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://verdirectotv.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "divPanel"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://freeskier.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adb-enabled"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://inwestycje.pl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "show-message"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://zorofiles.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "z662"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://komentare.sme.sk/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "js-top-info-bar-wrapper"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://londynek.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "abp"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ppe.pl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "abl"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://xxx-image.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "footer > font > b"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://starmusiq.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblock-detector-popup-alert"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://starmusiq.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblock-detector-fade-texture"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://yocast.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "notice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://benchmark.pl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblock-info"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://rychlost.cz/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "cpcbsd9z1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://imgnova.xyz/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "boxes"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://imgnova.xyz/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "mask"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://3bmeteo.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblock_warning"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://beforeitsnews.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "fancybox-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://beforeitsnews.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "fancybox-wrap"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://fanfiktion.de/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad-leaderboard-inner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mfiles.pl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "float_square"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://bitvid.sx/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "aad"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://digitalcitizen.life/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "dont-block-our-ads-popup"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://alluc.ee/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "aovl"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://se.pl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adb_popup"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://outlook.live.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "owaadbar"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://playonlinux.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "menu_droite > .login > div"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://settlersonlinemaps.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "prb"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://creativeuncut.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "g_abox"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mocospace.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "dialog-adblocker"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://turfomania.fr/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adblock-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jupako.uk/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "over-small"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jupako.uk/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "over-large"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://turkleech.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "h237"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornhub.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adBlockAlertWrap"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tube8.fr/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adBlockAlertWrap"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tube8.es/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adBlockAlertWrap"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tube8.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adBlockAlertWrap"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pornhub.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "abAlert"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tube8.fr/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "abAlert"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tube8.es/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "abAlert"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tube8.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "abAlert"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://wpmienphi.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "d7b2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://anisubsia.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "de13"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://next-episode.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "rundown"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://yad2.co.il/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "sLightbox_overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://yad2.co.il/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "sLightbox_container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://scigacz.pl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adv_750"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mathportal.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "noSenseCalculatorTop"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://azulyblanco.co/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "notice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://azulyblanco.co/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "vlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://forumdz.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "breadcrumb + center > [color=\"red\"] > b"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://bloomberg.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adBlockerContainer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://bytzbiorowy.pl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "stickymsg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://deviantart.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "block-notice"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dcode.fr/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "yb5d"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://aternos.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "atblck"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://aternos.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "detect"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://globes.co.il/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "chromeWindow"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://globes.co.il/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "grayLayer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://trovesaurus.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "blocked"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ojogo.pt/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "AdBloquer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hulkusc.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bab_popup"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://yafud.pl/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adsense_banner_top"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*:///.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "WarningCodec"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://seedpeer.me/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "body > #pageTop + * + #headerbox + TABLE[width=\"100%\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mininova.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "content > #adspot-a + .maintable"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://torrent-finder.info/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "addon_info"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://stream-happy.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "layer2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://comopremium.com.ar/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "blanuncio"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://rapid8.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "blcokMzg"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://referencemega.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hebdotop_t"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://keepfiles.fr/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "shadow"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://turkdown.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "duyuru"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gamejolt.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ima-ad-container"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://s.m2pub.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adk2_img"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tv.tugastvs.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adtugas1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tv.tugastvs.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adtugas2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tv.tugastvs.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adtugas3"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://megafilmeshd.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://megafilmeshd.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://live.gtcaster.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "bbb"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hdcastream.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "closeFrame_banner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hdcastream.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "closeFrame1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://btvsports.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ai_tapar"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://serverhd.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "countDown"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://hdcastream.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "total"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ilive.to/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ilive.to/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_overlay_content"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ilive.to/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_overlay_countdown"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cdn.tiv.pw/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "Advertisement1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://streamsportlive.es/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "WarningCodecBanner"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://stream2watch.me/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "moveads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://zuuk.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "fl10"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://embeducaster.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "impo_overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://cdn.tvdez.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "cerrar"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tugastream.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "closediv"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://channel1.livesportshd.us/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ai_tapar_content"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sportvgratis1.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "eplayer"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://championsuefa.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "closebutton"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://zeyutvcanales.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "KBTricksFBpop"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://micast.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "up"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://micast.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "closediv"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*:///.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "micast_ads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pirlotv.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pirlotv.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_overlay_content"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pirlotv.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_overlay_countdown"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sharecast.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "table1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sharecast.to/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "table1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://adbuck.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "col_publi"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://strmh24.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "b1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://dcast.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hideall"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://privatestream.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "timer1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://privatestream.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "timer2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://privatestream.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "timer3"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jjcast.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "timer1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jjcast.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "timer2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://jjcast.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "timer3"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://aliez.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://aliez.me/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://aliez.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adbtm"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://aliez.me/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adbtm"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tvfree2.me/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adn1"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://zoomtv.me/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "membz"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pxstream.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ImpedeTela"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pxstream.tv/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "mg_dindin"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ftpnova.eu/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "Av"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://usagoals.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://footdirect24.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hid"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://fgames.pw/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "html3"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://vipbox.online/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "html3"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sportshubtv.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_tekst"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://sportshubtv.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ad_show"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://bro.adcast.tech/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://bro.adcast.site/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://filetram.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "triangle-border"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://general-fil.es/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "sponsored"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mrtzcmp3.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hstp-bg-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mrtzcmp3.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hstp_interstitial"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://ojogo.pt/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "moldura_ojogo"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gaara-fr.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "pub01"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gaara-fr.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ga-skin-left"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gaara-fr.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ga-skin-right"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tvi24.iol.pt/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "heightPH"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pubs.xl.pt/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "descontos"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://record.xl.pt/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "BannerINQ"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://netviagens.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "nvAdForm"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://pro-ddl.ws/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "cboxOverlay + #colorbox + #fb-root + * + * + .fixe"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://rireetchansons.fr/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "popins"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://rireetchansons.fr/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "upsell"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tvgolo.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hstp-bg-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://tvgolo.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "hstp_interstitial"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://mesddl.cc/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "cboxContent"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://urlchecker.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adchecker"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://urlchecker.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adchecker_btn"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://urlchecker.net/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ads_notify"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://urlchecker.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adchecker"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://urlchecker.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "adchecker_btn"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://urlchecker.org/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ads_notify"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*:///.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "k2Uw7isHrMm5JXP1Vwdxc567ZKc1aZ4I"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": ".*://gaara-fr.com/.*"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "ga-skin-top"
+    }
+  }
+]
